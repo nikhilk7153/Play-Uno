@@ -1,4 +1,4 @@
-                                             # fa21-cs242-assignment-1.1 
+# Play Uno
 
 Upon building from last week, this week involved building the view and implementing to extra variations to the game of UNO. 
 Essentially, the view for this game involved creating the user interface where the user can see their cards, can enter which 
